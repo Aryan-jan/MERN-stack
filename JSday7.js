@@ -9,9 +9,9 @@ for (let i = 1; i < 31; i++){
 }
 
 const people = [
-    { name: `Rex`, age: 16},
-    { name: `Valera`, age: 18},
-    { name: `Taeza`, age: 20}
+    { name: `Jan`, age: 16},
+    { name: `Aryan`, age: 18},
+    { name: `Janjalani`, age: 20}
 ];
 
 // const filterAge = people.filter(n => n.age >= 18)

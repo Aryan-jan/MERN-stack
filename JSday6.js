@@ -10,7 +10,7 @@ let contactBook = [
         email: `jed@example.com`
     },
     {
-        name: `Rex`,
+        name: `Janjalani`,
         phone: `987-654-321`,
         email: `rex@example.com`
     }
