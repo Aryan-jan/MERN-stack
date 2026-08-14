@@ -1,0 +1,28 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Express_JS.js",
+  "scripts": {
+    "devStart": "nodemon mern-week3/JSday19.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan-jan/MERN-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aryan-jan/MERN-stack/issues"
+  },
+  "homepage": "https://github.com/Aryan-jan/MERN-stack#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
